@@ -2,7 +2,7 @@
 Hi! My name is Prashanth Vince 😄
 ========================================================================================================================================
 
-🌍  I am passionate to full-stack developer with a strong foundation in Java. I have a keen interest in both frontend and backend technologies, allowing me to craft end-to-end solutions. Proficient in HTML5, CSS3, and JavaScript, I'm also adept at working with frameworks like Bootstrap and Spring Boot. With a knack for designing seamless user interfaces and implementing robust backend logic, I'm excited to bring a holistic approach to software development. As a fresher, I'm eager to collaborate with dynamic teams and contribute to innovative projects.
+ ### 🌍 I am a Software Developer based in Chennai, India
 <br/>
 
 ### Skills
